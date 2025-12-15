@@ -38,3 +38,4 @@ docker run -p 8081:8080 -d --name spring-demo kirillesau/spring-demo-application
 - [Actuator](docs/implementation/Actuator.md)
 - [GitHub Actions](docs/implementation/GitHubActions.md)
 - [Dockerfile](docs/implementation/Dockerfile.md)
+Trigger CI
