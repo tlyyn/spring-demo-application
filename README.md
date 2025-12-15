@@ -11,7 +11,7 @@ as [Docker build](Dockerfile), [GitHub Actions](.github/workflows),
 [JPA](src/main/java/de/kirill/springdemoapplication/book/Book.java), [RESTController](src/main/java/de/kirill/springdemoapplication/DemoController.java),
 and
 more.
-
+## ZMINA: CI/CD test trigger
 ## Prerequisite
 
 The example has been created for learning purposes only.
